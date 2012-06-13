@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: LiveReload
+Plugin Name: LiveReload Snippet
 Plugin URI: http://wordpress.org/extend/plugins/livereload
 Description: Add the LiveReload javascript snippet to the footer of your theme.
 Version: 1.0
@@ -21,6 +21,13 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
+
+
+
+
+
+
+
 
 add_action( 'wp_footer', 'fufi_livereload_snippet' );
 

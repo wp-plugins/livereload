@@ -1,4 +1,4 @@
-=== LiveReload ===
+=== LiveReload Snippet ===
 Contributors: functionsfile
 Tags: LiveReload, javascript
 Requires at least: 1.2.0
