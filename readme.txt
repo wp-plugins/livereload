@@ -22,5 +22,5 @@ You can use LiveReload without [browser extensions](http://help.livereload.com/k
 
 == Changelog ==
 
-* 1.1 Unnoticed dead-on-arrivalness fixed, thanks [chrisguttandin](http://wordpress.org/support/profile/chrisguttandin)
+* 1.1 Unnoticed dead-on-arrivalness fixed, thanks [chrisguttandin](http://wordpress.org/support/topic/parse-error-165)
 * 1.0 Initial Release
