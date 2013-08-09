@@ -2,7 +2,7 @@
 Contributors: functionsfile
 Tags: LiveReload, javascript
 Requires at least: 1.2.0
-Tested up to: 3.4
+Tested up to: 3.6
 Stable tag: trunk
 
 Add the LiveReload javascript snippet to the footer of your theme.
@@ -20,8 +20,7 @@ You can use LiveReload without [browser extensions](http://help.livereload.com/k
 2. Put the 'livereload' directory in your WordPress plugin directory.
 3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for LiveReload.
 
-
-
 == Changelog ==
 
+* 1.1 Unnoticed dead-on-arrivalness fixed, thanks [chrisguttandin](http://wordpress.org/support/profile/chrisguttandin)
 * 1.0 Initial Release
