@@ -1,5 +1,5 @@
 === LiveReload Snippet ===
-Contributors: functionsfile
+Contributors: functionsfile, chrisguttandin
 Tags: LiveReload, javascript
 Requires at least: 1.2.0
 Tested up to: 3.6
@@ -22,5 +22,6 @@ You can use LiveReload without [browser extensions](http://help.livereload.com/k
 
 == Changelog ==
 
+* 1.2 Separate js via enqueue hooks, use bundled jquery
 * 1.1 Unnoticed dead-on-arrivalness fixed, thanks [chrisguttandin](http://wordpress.org/support/topic/parse-error-165)
 * 1.0 Initial Release
